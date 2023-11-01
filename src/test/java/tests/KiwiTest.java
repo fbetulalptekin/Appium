@@ -7,8 +7,6 @@ import org.testng.annotations.Test;
 import pages.KiwiPage;
 import utils.Driver;
 
-import java.time.Duration;
-
 public class KiwiTest {
     // uygulamanin yuklendigi dogrulanir
 // uygulamanin basariyla acildigi dogrulanir
